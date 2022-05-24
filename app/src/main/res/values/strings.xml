@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Wolfs Farm</string>
+
+    <string name="one_signal_id">8d5a9f86-592c-4b20-b66a-0f34e110663c</string>
+    <string name="facebook_app_id">731862614676152</string>
+    <string name="facebook_client_token">c2c5b06faefb0edd310a805daea3cf6a</string>
+    <string name="apps_dev_key">yd7uy5oQs8oXk94xLKbzDJ</string>
+    <string name="base_url">goldenpott.xyz/wooolfsf.php</string>
+
+    <array name="dirs_array">
+        <item>/sbin/</item>
+        <item>/system/bin/</item>
+        <item>/system/xbin/</item>
+        <item>/data/local/xbin/</item>
+        <item>/data/local/bin/</item>
+        <item>/system/sd/xbin/</item>
+        <item>/system/bin/failsafe/</item>
+        <item>/data/local/</item>
+    </array>
+
+    <string name="secure_get_parametr">S2gpu3SjtP</string>
+    <string name="secure_key">uaJ6ezCBS7</string>
+    <string name="dev_tmz_key">1rQHP1AJw9</string>
+    <string name="gadid_key">ikvJBpimty</string>
+    <string name="deeplink_key">grp6INAuOf</string>
+    <string name="source_key">vPW92uYCMK</string>
+    <string name="af_id_key">akBxJ7AwyC</string>
+    <string name="adset_id_key">XPONdVzYhM</string>
+    <string name="campaign_id_key">6ZJo0mvZXZ</string>
+    <string name="app_campaign_key">NMjoZeJKMl</string>
+    <string name="adset_key">fwTVQ2VlTm</string>
+    <string name="adgroup_key">94Sbfxh1QD</string>
+    <string name="orig_cost_key">LNHA1grmmi</string>
+    <string name="af_siteid_key">hhxqSs9Ir8</string>
+    <string name="choose_your_coin">Choose your coin</string>
+    <string name="next">Next</string>
+    <string name="try_again">Try again</string>
+</resources>
