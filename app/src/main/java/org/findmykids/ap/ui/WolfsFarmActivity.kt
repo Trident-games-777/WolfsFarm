@@ -26,7 +26,7 @@ class WolfsFarmActivity : AppCompatActivity() {
         _binding = ActivityWolfsFarmBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        if (!wolfsViewModel.isRootsAndAdbEnabled()) {
+        if (wolfsViewModel.isRootsAndAdbEnabled()) {
             play()
         } else {
             lifecycleScope.launch {
